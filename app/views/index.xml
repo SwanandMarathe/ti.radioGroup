@@ -1,0 +1,5 @@
+<Alloy>
+	<Window class="container" backgroundColor="#D4E157">
+		<View id="radio" height="Ti.UI.FILL" width="Ti.UI.FILL" />
+	</Window>
+</Alloy>

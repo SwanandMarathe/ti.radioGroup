@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+	<style name="LightDarkBar" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+		<item name="android:textColorPrimary">#000000</item>
+		<item name="colorControlActivated">#1E88E5 </item>
+		<item name="colorControlHighlight">#1565C0 </item>
+		<item name="android:statusBarColor">#C0CA33</item>
+		<item name="colorPrimaryDark">#C0CA33</item>
+		<item name="colorPrimary">#D4E157</item>
+		<item name="colorAccent">#D4E157</item>
+		<item name="colorSwitchThumbNormal">#1E88E5 </item>
+		<item name="android:navigationBarColor">#C0CA33</item>
+		<item name="colorButtonNormal">#1E88E5</item>
+		<item name="android:colorButtonNormal">#1E88E5</item>
+		<item name="android:colorControlHighlight">#1565C0</item>
+	</style>
+</resources>
